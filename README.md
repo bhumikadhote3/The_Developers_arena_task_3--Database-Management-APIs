@@ -3,7 +3,8 @@
 *End-to-end Weather Data Pipeline with Python, SQLite, ETL, and OpenWeatherMap API, including automated reporting.*
 
 
-🌦️ Weather Data Pipeline System
+**🌦️ Weather Data Pipeline System**
+
 📌 Project Overview
 
 This project is an end-to-end Weather Data Pipeline System built using Python, SQLite, and the OpenWeatherMap API.
@@ -317,4 +318,5 @@ Export reports to CSV / PDF
 
 Your Name
 Task 3 – Database Management & APIs
+
 
