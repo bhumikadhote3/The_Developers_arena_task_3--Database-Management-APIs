@@ -1,0 +1,19 @@
+WEATHER DATA PIPELINE REPORT
+========================================
+Generated at: 2026-02-08 23:45:02.823439
+
+Total records in database: 5
+
+Average Temperature per City:
+ - Bangalore: 30.99 °C
+ - Chennai: 37.4 °C
+ - Delhi: 38.42 °C
+ - Kolkata: 30.19 °C
+ - Mumbai: 36.98 °C
+
+Latest Weather Snapshot:
+ - Kolkata: 30.19 °C, 79% humidity at 2026-02-08 23:43:29.990182
+ - Chennai: 37.4 °C, 64% humidity at 2026-02-08 23:43:29.982753
+ - Bangalore: 30.99 °C, 48% humidity at 2026-02-08 23:43:29.971981
+ - Delhi: 38.42 °C, 65% humidity at 2026-02-08 23:43:29.965484
+ - Mumbai: 36.98 °C, 63% humidity at 2026-02-08 23:43:29.959233
