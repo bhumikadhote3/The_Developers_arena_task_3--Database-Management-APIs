@@ -1,0 +1,31 @@
+# Weather Data Pipeline System - Documentation
+
+## 1. Project Overview
+This project builds an end-to-end data engineering pipeline that:
+- Fetches live weather data from OpenWeatherMap API
+- Stores data in a SQLite database
+- Runs ETL (Extract, Transform, Load) pipeline
+- Generates analytical reports from historical data
+
+## 2. System Architecture
+API (OpenWeatherMap) -> ETL Pipeline (Python) -> SQLite Database -> Reporter
+
+## 3. Database Schema
+- cities: stores city information
+- weather_data: stores historical weather records
+
+## 4. ETL Workflow
+1. Extract: Fetch data from API
+2. Transform: Clean and format data
+3. Load: Insert into SQLite database
+
+## 5. Reporting
+The reporter module generates:
+- Average temperature per city
+- Latest weather snapshot
+- Total records count
+
+## 6. How to Run
+- python src/database.py
+- python src/etl_pipeline.py
+- python src/reporter.py
