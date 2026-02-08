@@ -1,0 +1,4 @@
+DB_PATH = "database/weather_data.db"
+API_KEY = "PUT_YOUR_API_KEY_HERE"
+CITIES = ["Mumbai", "Delhi", "Bangalore", "Chennai", "Kolkata"]
+REQUEST_TIMEOUT = 10
